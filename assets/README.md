@@ -1,0 +1,1 @@
+The lab-terminal GIF and reduced-motion PNG were drawn specifically for this profile. They are not a copied avatar or a third-party personal illustration. The contribution-snake workflow is adapted from the MIT-licensed github-profile-optimizer; its notice is retained under licenses/.
